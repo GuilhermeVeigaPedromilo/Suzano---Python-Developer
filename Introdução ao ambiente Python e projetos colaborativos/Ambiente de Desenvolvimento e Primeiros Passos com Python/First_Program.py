@@ -1,0 +1,1 @@
+print("Bem vindo ao python, tá lascado amigo")
