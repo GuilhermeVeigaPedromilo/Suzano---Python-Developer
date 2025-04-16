@@ -3,14 +3,20 @@
 ---
 
 # Bootcamp - Suzano Python Developer
-- Dê os primeiros passos rumo ao domínio da linguagem Python! Crie projetos - práticos, como um sistema bancário e soluções com inteligência artificial, - utilizando uma linguagem simples e poderosa. Prepare-se para o mercado com as - principais práticas atuais de produtividade com IA, Microsoft Copilot e Azure.
+- Dê os primeiros passos rumo ao domínio da linguagem Python! Crie projetos - práticos, como um sistema bancário e soluções com inteligência artificial, - utilizando uma linguagem simples e poderosa. Prepare-se para o mercado com as - principais práticas atuais de produtividade com IA, Microsoft Copilot e Azure. Trilha do curso no GitHub - https://github.com/digitalinnovationone/trilha-python-dio.git
 
-## 🚀 Desafio de Projeto
+## 🚀 Desafios de Projeto
+
 ### 💼 Criando um Sistema Bancário com Python
 - Neste projeto, você será desafiado a desenvolver um sistema bancário com três - operações principais: depósito, saque e extrato. O objetivo é simular operações - reais de um banco que visa monetizar suas funcionalidades.
 Durante o desafio, você aplicará seus conhecimentos de Python para criar uma solução funcional, prática e eficiente.
 
 - 📄 [Acesse o arquivo do projeto aqui](./Sintaxe%20Básica%20com%20Python/Desafio%20de%20Projeto%20-%20Criando%20um%20Sistema%20Bancário%20com%20Python/desafio_criando_um_sistema_bancario_com_python.py)
+
+### 📈 Otimizando o Sistema Bancário com Funções Python
+- Neste desafio, você terá a oportunidade de otimizar o Sistema Bancário previamente desenvolvido com o uso de funções Python. O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. Você terá a chance de refatorar o código existente, dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo. Prepare-se para aplicar conceitos avançados de programação e demonstrar sua habilidade em criar soluções mais elegantes e eficientes utilizando Python.
+
+- 📄 [Acesse o arquivo do projeto aqui](./Trabalhando%20com%20coleções%20em%20Python//DESAFIO%20-%20Otimizando%20o%20Sistema%20Bancário%20com%20Funções%20Python/desafio_otimizando_um_sistema_bancario_com_funcoes_python.py)
 
 
 ## 📚 Conteúdos
