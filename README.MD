@@ -19,7 +19,12 @@ Durante o desafio, você aplicará seus conhecimentos de Python para criar uma s
 - 📄 [Acesse o arquivo do projeto aqui](./Trabalhando%20com%20coleções%20em%20Python//DESAFIO%20-%20Otimizando%20o%20Sistema%20Bancário%20com%20Funções%20Python/desafio_otimizando_um_sistema_bancario_com_funcoes_python.py)
 
 ### 🏦 Modelando o Sistema Bancário em POO com Python
-- Neste desafio iremos atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código deve seguir o modelo de classes UML.
+- Neste desafio iremos atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código deve seguir o modelo de classes UML:
+
+---
+<img src="./Programação Orientada a Objetos com Python/Desafio de projeto - Modelando o Sistema Bancário em POO com Python/DOCS/Trilha Python - desafio.png" alt="Diagrama UML">
+
+---
 
 - 📄 [Acesse o arquivo do projeto aqui](./Programação%20Orientada%20a%20Objetos%20com%20Python/Desafio%20de%20projeto%20-%20Modelando%20o%20Sistema%20Bancário%20em%20POO%20com%20Python/desafio_de_projeto-modelando_o_sistema_bancario_em_poo_com_python.py)
 
