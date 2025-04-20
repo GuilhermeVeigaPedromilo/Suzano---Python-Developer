@@ -241,7 +241,7 @@ while True:
                 elif opcoes_de_recursos == 4:
                     criar_conta_opcoes = str(input(menu_criar_conta))
 
-                    if criar_conta_opcoes == "S":
+                    if criar_conta_opcoes == "S" or "s":
                         Create_Account("0001", search_an_user["nome"], search_an_user["cpf"])
                     
                 elif opcoes_de_recursos == 5:
@@ -265,9 +265,6 @@ while True:
 
         if CADASTRO == True:
             CONTA_CORRENTE = Create_Account("0001", nome, cpf)
-            if CONTA_CORRENTE == True:
-                print(users)
-                print(conta_corrente)
     elif opcoes_de_acesso == 3:
         print("bye")
         break
