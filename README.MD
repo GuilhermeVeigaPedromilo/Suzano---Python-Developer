@@ -33,6 +33,11 @@ Durante o desafio, você aplicará seus conhecimentos de Python para criar uma s
 
 - 📄 [Acesse o arquivo do desafio aqui!](./Produtividade%20com%20Microsoft%20Copilot/Desafio%20de%20Projeto%20-%20Criando%20seu%20primeiro%20Copiloto%20com%20Microsoft%20Copilot%20Studio/Desafio%20de%20Projeto%20-%20Criando%20seu%20primeiro%20Copiloto.md)
 
+### Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
+
+- Crie um Copilot com um fluxo de conversa personalizado no Microsoft Copilot Studio. Aprenda a iniciar um copiloto do zero, customizar um tópico, personalizar mensagens de erro e ajustar a qualidade das respostas utilizando GenAI. Ao final, você terá um copiloto otimizado para oferecer interações mais precisas e eficientes.
+
+- 📄 [Acesse o arquivo do desafio aqui!](./Produtividade%20com%20Microsoft%20Copilot/Desafio%20de%20Projeto%20-%20Criando%20um%20Copiloto%20com%20Fluxo%20de%20Conversa%20Personalizado%20no%20Microsoft%20Copilot%20Studio/Desafio%20de%20Projeto%20-%20Criando%20um%20Copiloto.md)
 
 ## 📚 Conteúdos
 ### 🔰 Introdução ao Ambiente Python e Projetos Colaborativos
