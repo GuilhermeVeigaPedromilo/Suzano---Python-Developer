@@ -5,6 +5,12 @@
 # Bootcamp - Suzano Python Developer
 - Dê os primeiros passos rumo ao domínio da linguagem Python! Crie projetos - práticos, como um sistema bancário e soluções com inteligência artificial, - utilizando uma linguagem simples e poderosa. Prepare-se para o mercado com as - principais práticas atuais de produtividade com IA, Microsoft Copilot e Azure. Trilha do curso no GitHub - https://github.com/digitalinnovationone/trilha-python-dio.git
 
+---
+
+<img src="./public/Conclusao.png" alt="Conclusão do bootcamp e informações, DIO">
+
+---
+
 ## 🚀 Desafios de Projeto
 
 ### 💼 Criando um Sistema Bancário com Python
@@ -33,11 +39,17 @@ Durante o desafio, você aplicará seus conhecimentos de Python para criar uma s
 
 - 📄 [Acesse o arquivo do desafio aqui!](./Produtividade%20com%20Microsoft%20Copilot/Desafio%20de%20Projeto%20-%20Criando%20seu%20primeiro%20Copiloto%20com%20Microsoft%20Copilot%20Studio/Desafio%20de%20Projeto%20-%20Criando%20seu%20primeiro%20Copiloto.md)
 
-### Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
+### 🗣️ Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
 
 - Crie um Copilot com um fluxo de conversa personalizado no Microsoft Copilot Studio. Aprenda a iniciar um copiloto do zero, customizar um tópico, personalizar mensagens de erro e ajustar a qualidade das respostas utilizando GenAI. Ao final, você terá um copiloto otimizado para oferecer interações mais precisas e eficientes.
 
 - 📄 [Acesse o arquivo do desafio aqui!](./Produtividade%20com%20Microsoft%20Copilot/Desafio%20de%20Projeto%20-%20Criando%20um%20Copiloto%20com%20Fluxo%20de%20Conversa%20Personalizado%20no%20Microsoft%20Copilot%20Studio/Desafio%20de%20Projeto%20-%20Criando%20um%20Copiloto.md)
+
+### 🧠 Análise de Sentimentos com Language Studio no Azure AI
+
+- Neste LAB, exploraremos o uso do Azure Speech Studio e a análise linguística proporcionada pelo Language Studio. Durante a prática, teremos a oportunidade de aprofundar nosso entendimento sobre como aproveitar essas ferramentas avançadas da Microsoft Azure. Estaremos focados em aprimorar nossas habilidades na implementação de soluções de análise de fala e linguagem, abrindo portas para uma compreensão mais ampla e prática das capacidades oferecidas por essas tecnologias inovadoras.
+
+- 📄 [Acesse o arquivo do desafio aqui!](./Integrando%20com%20Serviços%20de%20IA/Desafio%20de%20Projeto%20-%20Análise%20de%20Sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Análise%20de%20Sentimentos%20com%20Language%20Studio%20no%20Azure%20AI.md)
 
 ## 📚 Conteúdos
 ### 🔰 Introdução ao Ambiente Python e Projetos Colaborativos
